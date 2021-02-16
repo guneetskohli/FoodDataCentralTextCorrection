@@ -1,0 +1,98 @@
+high fructose corn syrup
+sorbitol
+mannitol
+xylitol
+erythritol
+maltitol
+polyglycitol syrup
+cane juice
+corn syrup solids
+dextrin
+dextrose
+fructose
+fruit juice concentrate
+glucose
+invert sugar
+maltodextrin
+maltol
+refiner's syrup
+rice syrup
+acesulfame
+aspartame
+neotame
+saccharin
+stevia
+sucrose
+sucralose
+no artificial flavors
+artificial flavors
+no natural flavors
+natural flavors
+no artifical and natural flavors
+artifical and natural flavors
+no natural and artificial flavors
+natural and artificial flavors
+disodium guanylate
+disodium inosinate
+autolyzed yeast extract
+hydrolyzed soy/vegetable protein
+hydrolyzed soy protein
+hydrolyzed vegetable protein
+blue 1
+blue 2
+blue 1 and blue 2
+green 3
+red 3
+red 40
+red 3 and red 40
+yellow 5
+yellow 6
+yellow 5 and yellow 6
+artificial color
+titanium dioxide
+caramel color
+carnauba wax
+lecithin
+mono and diglycerides
+mono- and diglycerides
+monoglycerides
+diglycerides
+polysorbate
+sorbitan monostearate
+carboxymethylcellulose
+cellulose gum
+diphosphate
+triphosphate
+polyphosphate
+tripolyphosphate
+pyrophosphate
+polyglycerol polyricinoleate
+sodium stearoyl-2-lactylate
+ammonium phosphatides
+sodium caseinate
+calcium caseinate
+sodium and calcium caseinate
+guar gum
+carrageenan
+xanthan gum
+locust bean gum
+carob bean gum
+gum arabic
+acacia gum
+hydrogenated oils
+non-modified starches
+modified starches
+non-modified food starch
+modified food starch
+alginate
+alginic acid
+olestra
+cellulose gel
+cellulose powder
+powdered cellulose
+microcellulose cellulose
+microcrystalline cellulose
+microcellulose/microcrystalline cellulose
+cellulose
+polydextrose
+whey protein concentrate
