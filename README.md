@@ -3,4 +3,4 @@ The main purpose of this tool is to fix spelling mistakes in FoodData Central's 
 
 # Usage
 1) Download the files as a zip folder and unzip them to C:\Users\YOURUSERNAME\Desktop\correction-prototype
-2) Download the [branded foods database](https://data.nal.usda.gov/dataset/usda-branded-food-products-database) as a .csv from FoodData Central.
+2) Download the [branded foods database](https://data.nal.usda.gov/dataset/usda-branded-food-products-database) as a csv file from FoodData Central and save it in the same directory as the tool.
