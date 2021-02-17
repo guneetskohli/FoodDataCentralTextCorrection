@@ -5,7 +5,7 @@ The main purpose of this tool is to fix spelling mistakes in FoodData Central's 
 1) Download the files as a zip folder and unzip them to C:\Users\YOURUSERNAME\Desktop\correction-prototype
 2) Download the [branded foods database](https://data.nal.usda.gov/dataset/usda-branded-food-products-database) as a csv file from FoodData Central and save it in the same directory as the tool.
 3) Open command prompt and type in: 
-'''cd Desktop'''
-'''cd correction-prototype'''
+```cd Desktop```
+```cd correction-prototype```
 The path on the command prompt should be: C:\Users\YOURUSERNAME\Desktop\correction-prototype
 
