@@ -11,4 +11,6 @@ The main purpose of this tool is to fix spelling mistakes in FoodData Central's 
  - ```cd correction-prototype```
 
   The path on the command prompt should be: C:\Users\YOURUSERNAME\Desktop\correction-prototype
+  
+4)
 
