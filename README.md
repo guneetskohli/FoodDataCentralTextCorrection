@@ -13,4 +13,5 @@ The main purpose of this tool is to fix spelling mistakes in FoodData Central's 
   The path on the command prompt should be: C:\Users\YOURUSERNAME\Desktop\correction-prototype
   
 4) Install python 3 by following this [tutorial](https://phoenixnap.com/kb/how-to-install-python-3-windows).
+5) Verify your python installation by typing “python” in your command prompt. It should look like [this](https://drive.google.com/file/d/17EINfJJ662u4BVEOv0mUANDx8q_GLqis/view).
 
