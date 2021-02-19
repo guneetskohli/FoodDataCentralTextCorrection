@@ -86,6 +86,7 @@ no artificial color
 artificial color
 no artificial colors
 artificial colors
+titanium oxide
 titanium dioxide
 caramel color
 carnauba wax
@@ -142,6 +143,7 @@ powdered cellulose
 microcellulose
 microcrystalline cellulose
 microcellulose/microcrystalline cellulose
+allulose
 cellulose
 polydextrose
 soy protein concentrate
