@@ -1,11 +1,15 @@
+salt
 high fructose corn syrup
+high maltose corn syrup
 sorbitol
 mannitol
 xylitol
 erythritol
+lactitol
 maltitol
 polyglycitol syrup
 cane juice
+kale juice
 corn syrup solids
 dextrin
 dextrose
@@ -15,6 +19,10 @@ glucose
 invert sugar
 maltodextrin
 maltol
+malt
+maltose
+lactose
+refinery syrup
 refiner's syrup
 rice syrup
 acesulfame
@@ -26,46 +34,85 @@ sucrose
 sucralose
 no artificial flavors
 artificial flavors
+no artificial flavor
+artificial flavor
 no natural flavors
 natural flavors
+no natural flavor
+natural flavor
 no artifical and natural flavors
+no artifical & natural flavors
 artifical and natural flavors
+artifical & natural flavors
+artifical and natural flavor
+artifical & natural flavor
 no natural and artificial flavors
+no natural & artificial flavors
 natural and artificial flavors
+natural & artificial flavors
+natural and artificial flavor
+natural & artificial flavor
 disodium guanylate
 disodium inosinate
 autolyzed yeast extract
 hydrolyzed soy/vegetable protein
 hydrolyzed soy protein
 hydrolyzed vegetable protein
+hydrolyzed plant protein
+hydrolyzed corn protein
+blue
 blue 1
+blue #1
 blue 2
+blue #2
 blue 1 and blue 2
+blue 1 & blue 2
+green
+green #3
 green 3
+red
 red 3
+red #3
 red 40
+red #40
 red 3 and red 40
+red 3 & red 40
+yellow
 yellow 5
 yellow 6
 yellow 5 and yellow 6
+yellow 5 & yellow 6
+no artificial color
 artificial color
+no artificial colors
+artificial colors
 titanium dioxide
 caramel color
 carnauba wax
 lecithin
 mono and diglycerides
+mono & diglycerides
 mono- and diglycerides
+mono- & diglycerides
 monoglycerides
 diglycerides
+triglycerides
 polysorbate
 sorbitan monostearate
 carboxymethylcellulose
 cellulose gum
+phosphate
+phosphates
 diphosphate
+diphosphates
 triphosphate
+triphosphates
 polyphosphate
+polyphosphates
 tripolyphosphate
+tripolyphosphates
 pyrophosphate
+pyrophosphates
 polyglycerol polyricinoleate
 sodium stearoyl-2-lactylate
 ammonium phosphatides
@@ -81,8 +128,10 @@ gum arabic
 acacia gum
 hydrogenated oils
 non-modified starches
+unmodified starches
 modified starches
 non-modified food starch
+unmodified food starch
 modified food starch
 alginate
 alginic acid
@@ -90,9 +139,13 @@ olestra
 cellulose gel
 cellulose powder
 powdered cellulose
-microcellulose cellulose
+microcellulose
 microcrystalline cellulose
 microcellulose/microcrystalline cellulose
 cellulose
 polydextrose
+soy protein concentrate
+pea protein concentrate
+hemp protein concentrate
+milk protein concentrate
 whey protein concentrate
