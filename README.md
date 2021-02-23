@@ -1,6 +1,15 @@
 # FoodDataCentralTextCorrection
 The main purpose of this tool is to fix spelling mistakes in FoodData Central's Branded Foods database. Prior to this project Cal Poly's Kinesiology Department was manually looking up mistakes in the ingredients list of the database and fixing them. The database has over 300,000 entries and it is impossible to catch and fix all spelling mistakes manually. This tool uses PeterNorvig's spell checker with the addition of the SimString library and the SymSpell libary to generate possible corrections.
 
+# Metrics
+We ran some metrics on the FoodData Central Database (Dec 2019) before and after we ran our text correction tool on it to gauge how well it performed. We specifically searched for additives listed in a document (separate from the AdditivesDict.txt) to help with analysis. The original database was able to find 784,122 instances of additives. In our newly generated database, we were able to discover a total of 791,666 instances of additives (0.96% more additives or an additional 7,544 additives).
+
+*Screenshot of a few additives we tried to identify - before/after text correction*
+
+![](Metrics.png)
+
+More information on how we generated these metrics can be found on our [Colab Notebook](https://colab.research.google.com/drive/1Msg6jeceHIt4k7bX0xlOu0wufxibykBu?usp=sharing).
+
 # Usage
 1) Download the files as a zip folder and unzip them to C:\Users\YOURUSERNAME\Desktop\FoodDataCentralTextCorrection
 2) Download the [branded foods database](https://data.nal.usda.gov/dataset/usda-branded-food-products-database) as a CSV file from FoodData Central and save it in the same directory as the tool.
