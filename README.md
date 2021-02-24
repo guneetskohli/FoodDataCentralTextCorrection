@@ -12,7 +12,7 @@ More information on how we generated these metrics can be found on our [Colab No
 
 # Usage
 1) Download the files as a zip folder and unzip them to C:\Users\YOURUSERNAME\Desktop\FoodDataCentralTextCorrection
-2) Download the [branded foods database](https://data.nal.usda.gov/dataset/usda-branded-food-products-database) as a CSV file from FoodData Central and save it in the same directory as the tool.
+2) Download the [branded foods database](https://fdc.nal.usda.gov/download-datasets.html) as a CSV file from FoodData Central and save it in the same directory as the tool.
 3) Open command prompt and type in: 
 
  - ```cd Desktop/FoodDataCentralTextCorrection```
